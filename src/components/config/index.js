@@ -1,3 +1,3 @@
-import Config from './config.view';
+import Config from './config.container';
 
 export default Config;

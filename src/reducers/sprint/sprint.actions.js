@@ -1,0 +1,4 @@
+export default Object.freeze({
+  CHANGE_PERCENTAGE: 'CHANGE_PERCENTAGE',
+  CHANGE_START_DAY: 'CHANGE_START_DAY',
+});
